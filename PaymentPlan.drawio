@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T18:11:07.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="e_vmPZMBdRCBwxdfueSH" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T20:21:39.310Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qeEz2Ib8mPOKvDSGDcGu" version="21.5.2" type="github">
   <diagram name="Página-1" id="pzdx3Y8yiVqQuR7hvQ3V">
     <mxGraphModel dx="1306" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="82q-a19smasViUKn8oLQ-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="80" y="250" width="10" height="150" as="geometry" />
+          <mxGeometry x="80" y="250" width="10" height="540" as="geometry" />
         </mxCell>
         <mxCell id="82q-a19smasViUKn8oLQ-4" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline; font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;Salesforce:PaymentPlan&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 8px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Total = 4500&lt;br style=&quot;font-size: 8px;&quot;&gt;Balance = 4500&lt;br style=&quot;font-size: 8px;&quot;&gt;Status = [Real,Planed,Process]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Date =&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Amount =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Percent =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Transacction Code =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Payment Type = [Floating, withholding, Credit Card]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Observations =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=8;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="160" y="90" width="210" height="110" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="110" y="240" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xsBjjjgYRFcRfpxBP55H-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="260" y="310" width="10" height="90" as="geometry" />
+          <mxGeometry x="260" y="310" width="10" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="xsBjjjgYRFcRfpxBP55H-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Opera: PM&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;field1 = value1&lt;br&gt;field2 = value2&lt;br&gt;field3 = value3&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="90" width="180" height="110" as="geometry" />
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Opera: PM&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Amount = -500&lt;br&gt;date = fecha&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xsBjjjgYRFcRfpxBP55H-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="xsBjjjgYRFcRfpxBP55H-12" target="xsBjjjgYRFcRfpxBP55H-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,14 +52,85 @@
             <mxPoint x="470" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsBjjjgYRFcRfpxBP55H-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xsBjjjgYRFcRfpxBP55H-6">
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="525" y="270" width="10" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Change Process&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Status = [Process]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Date = fecha actual&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Amount = 500&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Percent =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Transacction Code =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Payment Type = [Credit Card]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Observations = cualquier obs&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="440" as="sourcePoint" />
-            <mxPoint x="520" y="390" as="targetPoint" />
+            <mxPoint x="90" y="490" as="sourcePoint" />
+            <mxPoint x="260" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsBjjjgYRFcRfpxBP55H-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="525" y="270" width="10" height="140" as="geometry" />
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="490" as="sourcePoint" />
+            <mxPoint x="525" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Change Real&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Status = [Real]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Date = fecha actual&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Amount = 500&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Percent =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Transacction Code =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Payment Type = [Credit Card]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Observations = cualquier obs&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="510" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="620" as="sourcePoint" />
+            <mxPoint x="260" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Change Disable&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Status = [Real,Process]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Date = fecha actual&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Amount = 500&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Percent =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Transacction Code =&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Payment Type = [Credit Card]&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;Observations = cualquier obs&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="640" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-19" value="Jefe" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-20" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=0.683;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xsBjjjgYRFcRfpxBP55H-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="800" as="sourcePoint" />
+            <mxPoint x="470" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="xsBjjjgYRFcRfpxBP55H-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="30" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="82q-a19smasViUKn8oLQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="720" as="sourcePoint" />
+            <mxPoint x="70" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="720" />
+              <mxPoint x="60" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="770" as="sourcePoint" />
+            <mxPoint x="525" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.014;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="82q-a19smasViUKn8oLQ-3" target="xsBjjjgYRFcRfpxBP55H-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="470" y="450" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsBjjjgYRFcRfpxBP55H-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="82q-a19smasViUKn8oLQ-3" target="xsBjjjgYRFcRfpxBP55H-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="500" as="sourcePoint" />
+            <mxPoint x="240" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
