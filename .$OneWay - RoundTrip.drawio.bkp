@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-11-08T01:52:27.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="1l2qhc7F5Bm5yAZ0rfm4" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-08T01:59:00.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="2pZmtBpuS2nVsw3sbDtz" version="22.0.3" type="device">
   <diagram name="Página-1" id="DvsqSxgmwoJQXqp3BJBl">
     <mxGraphModel dx="1306" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="335" y="390" width="440" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-17" value="Reserva de Boletos&amp;nbsp;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="750" width="326" height="130" as="geometry" />
+          <mxGeometry x="410" y="640" width="326" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-19" value="Se muestra en" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.75;entryDx=10;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-16" edge="1">
           <mxGeometry x="-0.0101" width="80" relative="1" as="geometry">
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Actividades&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;visualiza la nueva actividad:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;lan_uio_gps_ow&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;lan_uio_gps_uio_rt&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="420" y="790" width="270" height="80" as="geometry" />
+          <mxGeometry x="450" y="680" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-22" target="8ll0A4DqtjS5xaUNRAdo-27" edge="1">
           <mxGeometry relative="1" as="geometry">
