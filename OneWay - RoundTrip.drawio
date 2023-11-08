@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-11-08T04:12:30.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="lCcfaiFSOYIpb6m1a-bW" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-08T04:16:06.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="yjKwsL7pFLM5BOp6kjjJ" version="22.0.3" type="device">
   <diagram name="Página-1" id="DvsqSxgmwoJQXqp3BJBl">
     <mxGraphModel dx="1306" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,17 +87,18 @@
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-45" value="se crea una nueva actividad" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="570" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8ll0A4DqtjS5xaUNRAdo-46" value="" style="endArrow=block;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.031;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-17" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="210" y="684.5" as="sourcePoint" />
-            <mxPoint x="370" y="684.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0UsNF8fL1aefR2bkP3C2-1" value="Salesforce No Comercial" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="60" y="40" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0UsNF8fL1aefR2bkP3C2-3" value="XTS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="10" y="330" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rrzGRFofWLRTdLjAmEyY-1" value="Se muestra solo &lt;br&gt;la nueva actividad" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=10;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-17">
+          <mxGeometry x="-0.0101" width="80" relative="1" as="geometry">
+            <mxPoint x="205" y="805" as="sourcePoint" />
+            <mxPoint x="310" y="730" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

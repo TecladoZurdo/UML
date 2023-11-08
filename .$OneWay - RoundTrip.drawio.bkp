@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-11-08T01:59:00.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="2pZmtBpuS2nVsw3sbDtz" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-08T04:12:30.240Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="lCcfaiFSOYIpb6m1a-bW" version="22.0.3" type="device">
   <diagram name="Página-1" id="DvsqSxgmwoJQXqp3BJBl">
     <mxGraphModel dx="1306" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-45" value="se crea una nueva actividad" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="570" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8ll0A4DqtjS5xaUNRAdo-46" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.031;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-17" edge="1">
+        <mxCell id="8ll0A4DqtjS5xaUNRAdo-46" value="" style="endArrow=block;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.031;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-17" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="210" y="684.5" as="sourcePoint" />
             <mxPoint x="370" y="684.5" as="targetPoint" />
