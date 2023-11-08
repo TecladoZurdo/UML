@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-08T01:52:27.013Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="1l2qhc7F5Bm5yAZ0rfm4" version="22.0.3" type="device">
+<mxfile host="app.diagrams.net" modified="2023-11-08T01:47:02.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B2HSfeZjLXphtyhT6bJB" version="21.7.2" type="github">
   <diagram name="Página-1" id="DvsqSxgmwoJQXqp3BJBl">
-    <mxGraphModel dx="1306" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,10 +29,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-16" value="Matriz de asignación" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="390" width="440" height="140" as="geometry" />
+          <mxGeometry x="340" y="340" width="440" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-17" value="Reserva de Boletos&amp;nbsp;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="750" width="326" height="130" as="geometry" />
+          <mxGeometry x="450" y="610" width="326" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-19" value="Se muestra en" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.75;entryDx=10;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-16" edge="1">
           <mxGeometry x="-0.0101" width="80" relative="1" as="geometry">
@@ -42,17 +42,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Actividades&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;visualiza la nueva actividad:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;lan_uio_gps_ow&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;lan_uio_gps_uio_rt&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="420" y="790" width="270" height="80" as="geometry" />
+          <mxGeometry x="490" y="650" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-22" target="8ll0A4DqtjS5xaUNRAdo-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665" y="595" />
+              <mxPoint x="665" y="510" />
+              <mxPoint x="410" y="510" />
+              <mxPoint x="410" y="595" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Crear actividad Generica (asigna prove)&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;lan_uio_gps_ow&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;lan_uio_gps_uio_rt&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="575" y="430" width="170" height="80" as="geometry" />
+          <mxGeometry x="580" y="380" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1" vertex="1">
           <mxGeometry x="190" y="122" width="120" height="8" as="geometry" />
@@ -67,13 +69,13 @@
           <mxGeometry x="40" y="570" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-35" value="Proveedores&lt;br&gt;Latam" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="700" y="280" width="100" height="70" as="geometry" />
+          <mxGeometry x="660" y="160" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;QTT&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Producto RoundTrip&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="230" y="230" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-38" value="Visualizar" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="430" width="160" height="78" as="geometry" />
+          <mxGeometry x="370" y="380" width="160" height="78" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-39" value="tkt_uio_gps_pax&amp;nbsp;&lt;br&gt;tkt_uio_gps_uio_pax" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="8ll0A4DqtjS5xaUNRAdo-38" vertex="1">
           <mxGeometry y="26" width="160" height="44" as="geometry" />
