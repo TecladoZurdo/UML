@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T01:44:12.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="daDDSlB-10uLMnqyBsQC" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T01:47:02.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="B2HSfeZjLXphtyhT6bJB" version="21.7.2" type="github">
   <diagram name="Página-1" id="DvsqSxgmwoJQXqp3BJBl">
     <mxGraphModel dx="1306" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,12 +15,6 @@
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;QTT&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Producto OneWay&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="50" y="230" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8ll0A4DqtjS5xaUNRAdo-12" value="Salesforce No Comercial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="60" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8ll0A4DqtjS5xaUNRAdo-13" value="XTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-14" target="8ll0A4DqtjS5xaUNRAdo-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -100,6 +94,12 @@
             <mxPoint x="210" y="684.5" as="sourcePoint" />
             <mxPoint x="370" y="684.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0UsNF8fL1aefR2bkP3C2-1" value="Salesforce No Comercial" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="60" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0UsNF8fL1aefR2bkP3C2-3" value="XTS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="330" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
