@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-14T13:15:07.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="JoLBL7OHjMxwLBMtNu7m" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2023-11-14T13:25:20.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="FvKGV31eRW5jSrownvhP" version="22.0.3" type="device">
   <diagram name="Página-1" id="DvsqSxgmwoJQXqp3BJBl">
-    <mxGraphModel dx="1306" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ll0A4DqtjS5xaUNRAdo-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Actividades&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;RT&amp;nbsp; (Generico / con producto)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;OW (Generico / con producto)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="8ll0A4DqtjS5xaUNRAdo-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Actividades&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;RT&amp;nbsp; (con / sin&amp;nbsp; &amp;nbsp;producto)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;OW (con / sin&amp;nbsp; producto)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;TKT ( con producto )&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="540" y="765" width="180" height="95" as="geometry" />
         </mxCell>
         <mxCell id="8ll0A4DqtjS5xaUNRAdo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-22" target="8ll0A4DqtjS5xaUNRAdo-27" edge="1">
@@ -83,7 +83,7 @@
         <mxCell id="0UsNF8fL1aefR2bkP3C2-3" value="XTS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="10" y="330" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rrzGRFofWLRTdLjAmEyY-1" value="Se muestra la asignacion TKT" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=10;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-17" edge="1">
+        <mxCell id="rrzGRFofWLRTdLjAmEyY-1" value="Se muestra la asignación" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=10;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8ll0A4DqtjS5xaUNRAdo-27" target="8ll0A4DqtjS5xaUNRAdo-17" edge="1">
           <mxGeometry x="-0.0089" width="80" relative="1" as="geometry">
             <mxPoint x="205" y="805" as="sourcePoint" />
             <mxPoint x="310" y="730" as="targetPoint" />
@@ -99,7 +99,7 @@
         <mxCell id="UYus7RheZh6hR16-cruA-5" value="Pax" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="700" y="250" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UYus7RheZh6hR16-cruA-6" value="&lt;h1&gt;Validaciones&lt;/h1&gt;&lt;div&gt;# Al crear la actividad se verifica que:&amp;nbsp; =&amp;gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;- Opp en Pre Trip (operación)&lt;/p&gt;&lt;p&gt;&amp;nbsp;- Actividad tenga asignación de Pax&lt;/p&gt;&lt;p&gt;&amp;nbsp;- (OW)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; - Fecha inicio y fecha fin sean iguales.&lt;/p&gt;&lt;p&gt;&amp;nbsp; - (RT)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Fecha de inicio y fecha fin sean diferentes&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;- (TKT)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; -Se requiere 2 boletos uno de ida y otro de regreso&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;- Deben tener el mismo # de grupo (linkGroup)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; - Ambos TKT&amp;nbsp;&amp;nbsp;debe tener los mismos pax&lt;/p&gt;&amp;nbsp; &amp;nbsp; - Fecha de inicio y fecha fin sean diferentes&lt;span style=&quot;white-space: pre; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; - (OW - RT - TKT)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;- No sean boletos directos (DIR)&lt;/p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="UYus7RheZh6hR16-cruA-6" value="&lt;h1&gt;Validaciones&lt;/h1&gt;&lt;div&gt;# Al crear la actividad se verifica que:&amp;nbsp; =&amp;gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;- Opp en Pre Trip (operación)&lt;/p&gt;&lt;p&gt;&amp;nbsp;- Actividad tenga asignación de Pax&lt;/p&gt;&lt;p&gt;&amp;nbsp;- (OW)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; - Fecha inicio y fecha fin sean iguales.&lt;/p&gt;&lt;p&gt;&amp;nbsp; - (RT)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Fecha de inicio y fecha fin sean diferentes pero puede tener fechas iguales.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;- (TKT)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; -Se requiere 2 boletos uno de ida y otro de regreso&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;- Deben tener el mismo # de grupo (linkGroup)&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; - Ambos TKT&amp;nbsp;&amp;nbsp;debe tener los mismos pax&lt;/p&gt;&amp;nbsp; &amp;nbsp; - Fecha de inicio y fecha fin sean diferentes obligatoriamente.&lt;span style=&quot;white-space: pre; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; - (OW - RT - TKT)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;- No sean boletos directos (DIR)&lt;/p&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="386.88" y="10" width="403.12" height="470" as="geometry" />
         </mxCell>
         <mxCell id="UYus7RheZh6hR16-cruA-7" value="&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 4px;&quot;&gt;RT&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -216,9 +216,6 @@
         <mxCell id="UYus7RheZh6hR16-cruA-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="UYus7RheZh6hR16-cruA-42" vertex="1">
           <mxGeometry x="45" y="250" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="X0X6lCmc-lcTKx6DjE52-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UYus7RheZh6hR16-cruA-42">
-          <mxGeometry x="45" y="320" width="10" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="UYus7RheZh6hR16-cruA-45" value=":Matriz asignación" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1200" y="450" width="70" height="350" as="geometry" />
         </mxCell>
@@ -286,30 +283,23 @@
             <mxPoint x="690" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0X6lCmc-lcTKx6DjE52-5" value="+ rt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="682" width="100" height="26" as="geometry" />
+        <mxCell id="X0X6lCmc-lcTKx6DjE52-5" value="+ rt (No generico)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="682" width="135" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="X0X6lCmc-lcTKx6DjE52-6" value="+ ow" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="708" width="100" height="26" as="geometry" />
+        <mxCell id="X0X6lCmc-lcTKx6DjE52-6" value="+ ow (No generico)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="708" width="135" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X0X6lCmc-lcTKx6DjE52-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="865" y="760" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X0X6lCmc-lcTKx6DjE52-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="X0X6lCmc-lcTKx6DjE52-9" target="X0X6lCmc-lcTKx6DjE52-10">
+        <mxCell id="X0X6lCmc-lcTKx6DjE52-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="X0X6lCmc-lcTKx6DjE52-7" target="X0X6lCmc-lcTKx6DjE52-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1136" y="775" />
               <mxPoint x="1264" y="775" />
-              <mxPoint x="1264" y="760" />
+              <mxPoint x="1264" y="757" />
             </Array>
-            <mxPoint x="1140" y="775" as="sourcePoint" />
+            <mxPoint x="1135.5" y="785" as="sourcePoint" />
             <mxPoint x="1380" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X0X6lCmc-lcTKx6DjE52-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" source="X0X6lCmc-lcTKx6DjE52-7" target="X0X6lCmc-lcTKx6DjE52-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="875" y="775" as="sourcePoint" />
-            <mxPoint x="1070" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
