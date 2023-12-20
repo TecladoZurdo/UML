@@ -1,0 +1,102 @@
+<mxfile host="Electron" modified="2023-12-20T15:58:25.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="9BnwykT4Bwr1ksCwUL4N" version="22.1.2" type="device">
+  <diagram name="Página-1" id="hvUKiegdO5NY6V_EGWbR">
+    <mxGraphModel dx="1354" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-1" value="SQL&lt;br&gt;Legoland" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="90" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-2" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Inicio&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Bienvenida&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Login&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-6">
+          <mxGeometry width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-3" value="" style="shape=component;jettyWidth=8;jettyHeight=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-2">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-4" value="MS-Login" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-6">
+          <mxGeometry x="174" y="35.357142857142854" width="100" height="39.285714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-2" target="Fd9paL_t9iBPJfcG7-ev-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="sourcePoint" />
+            <mxPoint x="405" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-8" target="Fd9paL_t9iBPJfcG7-ev-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Home&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Header Menu&lt;br&gt;+ Roles&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Perfiles&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="315" y="250" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-1" target="Fd9paL_t9iBPJfcG7-ev-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-11" target="Fd9paL_t9iBPJfcG7-ev-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-11" target="Fd9paL_t9iBPJfcG7-ev-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-11" target="Fd9paL_t9iBPJfcG7-ev-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-11" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Header Menu&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ New land service&amp;nbsp;&lt;br&gt;+ Land service (Grid Land Service)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Component catalog (Grid Catalogo)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Username[Role]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Logout&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-12" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-11">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-15" target="Fd9paL_t9iBPJfcG7-ev-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-15" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Grid Land Service&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="540" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-16" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-15">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Fd9paL_t9iBPJfcG7-ev-17" target="Fd9paL_t9iBPJfcG7-ev-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-17" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Grid Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="550" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-18" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-17">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-19" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;New land service&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-20" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-19">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-21" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;New Component&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Attribute1: Type&lt;br&gt;+ Attribute2: Type&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="690" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-22" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="Fd9paL_t9iBPJfcG7-ev-21">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
