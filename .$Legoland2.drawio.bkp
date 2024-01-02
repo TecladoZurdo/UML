@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-12-27T16:34:29.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="L75sz6CkxUwBO8POOJ9v" version="22.1.11" type="device">
+<mxfile host="Electron" modified="2024-01-02T13:44:42.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="DaguBn7c7s1u9YvY-qoc" version="22.1.11" type="device">
   <diagram name="Página-1" id="hvUKiegdO5NY6V_EGWbR">
     <mxGraphModel dx="1546" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="Fd9paL_t9iBPJfcG7-ev-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fd9paL_t9iBPJfcG7-ev-8" target="Fd9paL_t9iBPJfcG7-ev-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fd9paL_t9iBPJfcG7-ev-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Home&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Header Menu&lt;br&gt;+ Roles&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Perfiles&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-8" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Home&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Header Menu&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Perfiles&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="315" y="250" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Fd9paL_t9iBPJfcG7-ev-9" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="Fd9paL_t9iBPJfcG7-ev-8" vertex="1">
@@ -50,7 +50,7 @@
         <mxCell id="Fd9paL_t9iBPJfcG7-ev-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.008;exitY=0.827;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Fd9paL_t9iBPJfcG7-ev-11" target="Fd9paL_t9iBPJfcG7-ev-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fd9paL_t9iBPJfcG7-ev-11" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Header Menu&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ New land service&amp;nbsp;&lt;br&gt;+ Land service (Grid Land Service)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Component catalog (Grid Catalogo)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Username[Role]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Logout&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="Fd9paL_t9iBPJfcG7-ev-11" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Header Menu&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ New land service&amp;nbsp;&lt;br&gt;+ Land service (Grid Land Service)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Component catalog (Grid Catalogo)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Username[Perfil]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Logout&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="300" y="390" width="240" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Fd9paL_t9iBPJfcG7-ev-12" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="Fd9paL_t9iBPJfcG7-ev-11" vertex="1">
