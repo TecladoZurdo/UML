@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-02-08T14:36:30.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="EPN7BPFk9mmteT1Hs8e5" version="23.0.2" type="device">
+<mxfile host="Electron" modified="2024-02-08T14:38:14.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="9rQVfVfePs2IYpV_tb1X" version="23.0.2" type="device">
   <diagram name="Página-1" id="hvUKiegdO5NY6V_EGWbR">
     <mxGraphModel dx="2739" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,13 +218,13 @@
           <mxGeometry x="1094" y="404" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="K7JV8F4dfLs3dqwlN5G4-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;store procedure&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;+ sp_nueba_tarifa_servicio_cotizador&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;+ sp_registrar_servicio_desde_cotizador&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="190" width="230" height="80" as="geometry" />
+          <mxGeometry x="-260" y="190" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7JV8F4dfLs3dqwlN5G4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="K7JV8F4dfLs3dqwlN5G4-1" target="Fd9paL_t9iBPJfcG7-ev-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7JV8F4dfLs3dqwlN5G4-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;Views&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;+ trf_vistacomponentesland&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp;+ trf_vistacomponenteslandvalores&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="285" width="230" height="85" as="geometry" />
+          <mxGeometry x="-260" y="285" width="230" height="85" as="geometry" />
         </mxCell>
         <mxCell id="K7JV8F4dfLs3dqwlN5G4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="K7JV8F4dfLs3dqwlN5G4-5" target="Fd9paL_t9iBPJfcG7-ev-1">
           <mxGeometry relative="1" as="geometry" />
